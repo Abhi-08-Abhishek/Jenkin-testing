@@ -89,7 +89,7 @@ a:focus {
           box-shadow: none;
 }
 
-/*header section*/
+/*header section
 .hero_area {
   position: relative;
   min-height: 100vh;
@@ -311,6 +311,7 @@ a:focus {
 
 /*end header section*/
 /* slider section */
+
 .slider_section {
   -webkit-box-flex: 1;
       -ms-flex: 1;
